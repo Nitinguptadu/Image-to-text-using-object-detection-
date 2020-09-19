@@ -1,7 +1,7 @@
 # Image-to-text-using-object-detection-
 This repo is for self learning purpose 
 
-For soloving your problem statement i have created a Deep learning pipeline 
+For soloving This problem statement i have created a Deep learning pipeline 
 a) first preprocess the images using opencv and save them in there dir
 b) Using object detection i have detected the the text and barcode in the images and crop those images and save in result floder
 c) using tesseract coverted those images into text and save  it in new.csv file with floder and image name and text in that particular images
